@@ -40,9 +40,10 @@
   <img alt="Terminal" src="https://img.shields.io/badge/-Bash-557C94?style=flat&logo=Windows%20Terminal&logoColor=" />
 </p>
 
+<!--
 ## 📈  Git Stats
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=dracula)
-
+-->
 
 <!-- 
 **PavanTheHacker55/PavanTheHacker55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
