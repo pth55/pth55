@@ -6,6 +6,7 @@
 ## 🛠️ Technologies and Tools
 <p> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-5865F2?style=flat&logo=javascript&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-EE0000?style=flat&logo=php&logoColor=yello"/>
   <img alt="C" src="https://img.shields.io/badge/-557C94?style=flat&logo=c&logoColor=red"/>
