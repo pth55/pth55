@@ -20,7 +20,7 @@
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   -->
-</p>
+<!-- </p> -->
 
 <!-- ## ❄ Infrastructure & Network Technologies
 <p>
@@ -30,8 +30,8 @@
   <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white" /> 
   <img alt="KaliLinux" src="https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kali-linux&logoColor=white" /> -->
   <!-- <img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" /> -->
-<!--   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" />  --> -->
-</p>
+<!--   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" />  -->
+<!-- </p> -->
 
 <!-- ## 🏹 Productivity & Communication Tools
 <p>
