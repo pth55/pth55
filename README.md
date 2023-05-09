@@ -41,7 +41,7 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img alt="Terminal" src="https://img.shields.io/badge/-Bash-557C94?style=flat&logo=Windows%20Terminal&logoColor=" /> -->
 <!-- </p>
-<!--  --> --> --> -->
+<!--  --> 
 <!--
 ## 📈  Git Stats
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=dracula)
