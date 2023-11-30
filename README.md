@@ -77,9 +77,9 @@ Student, Tech enthusiast, Hacker, and Programmer
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Github](http://github.com/PavanTheHacker55)
-*   ✉️  You can contact me at [pavanthehacker55@gmail.com](mailto:pavanthehacker55@gmail.com)
-*   🚀  I'm currently working on [CyberNetSec](http://github.com/PavanTheHacker55)
-*   🤝  I'm open to collaborating on Cybersecurity and AI/ML Projects
+*   ✉️  You can contact me at [238w5a1201@vrsec.ac.in](mailto:238w5a1201@vrsec.ac.in)
+*   🚀  I'm currently working on [CyberNetSec]
+*   🤝  I'm open to collaborating on Cybersecurity and AI/ML Projects.
 <a href="https://www.github.com/PavanTheHacker55" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/PavanTheHacker55?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/pavanthehacker" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/pavanthehacker?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
