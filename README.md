@@ -68,10 +68,10 @@ Here are some ideas to get you started:
 
 
 Hi there, I'm Pavan Kumar! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===================================================================================================================================
+======================================================================================================================================
 
-Student, Tech enthusiast, Hacker, and Programmer
-------------------------------------------------
+Student - Hacker - Programmer - Tech Enthusiast
+-----------------------------------------------
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Github](http://github.com/PavanTheHacker55)
