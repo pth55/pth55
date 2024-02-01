@@ -67,9 +67,7 @@ Here are some ideas to get you started:
 
 
 
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavan Kumar
+Hi there, I'm Pavan Kumar!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
 Student, Tech enthusiast, Hacker, and Programmer
@@ -79,7 +77,7 @@ Student, Tech enthusiast, Hacker, and Programmer
 *   🖥️  See my portfolio at [Github](http://github.com/PavanTheHacker55)
 *   ✉️  You can contact me at [238w5a1201@vrsec.ac.in](mailto:238w5a1201@vrsec.ac.in)
 *   🚀  I'm currently working on [CyberNetSec]
-*   🤝  I'm open to collaborating on Cybersecurity and AI/ML Projects.
+*   🤝  I'm open to collaborating on Cybersecurity and MERN stack Projects.
 <a href="https://www.github.com/PavanTheHacker55" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/PavanTheHacker55?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/pavanthehacker" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/pavanthehacker?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -116,9 +114,3 @@ Student, Tech enthusiast, Hacker, and Programmer
 ### Badges
 
 <a href="https://github.com/PavanTheHacker55" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanTheHacker55&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-
-
-
