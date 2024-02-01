@@ -76,12 +76,8 @@ Student, Tech enthusiast, Hacker, and Programmer
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Github](http://github.com/PavanTheHacker55)
 *   ✉️  You can contact me at [238w5a1201@vrsec.ac.in](mailto:238w5a1201@vrsec.ac.in)
-*   🚀  I'm currently working on MERN Stack and Cyber Sec.
+*   🚀  I'm currently working on **MERN Stack** and **Cyber Sec.**
 *   🤝  I'm open to collaborating on Cybersecurity and MERN stack Projects.
-<a href="https://www.github.com/PavanTheHacker55" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/PavanTheHacker55?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/pavanthehacker" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/pavanthehacker?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
 
 ### Skills 
 <p align="left">
@@ -108,8 +104,11 @@ Student, Tech enthusiast, Hacker, and Programmer
                     
 
   ### Socials
-        
  <p align="left"> <a href="https://www.github.com/PavanTheHacker55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14675937/pavan-kumar-bandaru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pavanthehacker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/PavanTheHacker55" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/PavanTheHacker55?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> &nbsp; <a href="https://www.twitter.com/pavanthehacker" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/pavanthehacker?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>
 
 ### Badges
 
