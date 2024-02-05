@@ -27,7 +27,6 @@ Hi there, I'm Pavan Kumar! ![](https://user-images.githubusercontent.com/1835055
 
 ### <h2>📜 Description.. </h2>
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Github](http://github.com/pth55)
 *   ✉️  You can contact me at [238w5a1201@vrsec.ac.in](mailto:238w5a1201@vrsec.ac.in)
 *   🚀  I'm currently working on **MERN Stack** and **Cyber Sec.**
 *   🤝  I'm open to collaborating on Cybersecurity and MERN stack Projects.
