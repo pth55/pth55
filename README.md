@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/pavan-kumar-bandaru-a857451bb/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="[[https://www.twitter.com/pavanthehacker](https://www.twitter.com/pavanthehacker)](https://www.twitter.com/pavanthehacker)"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://www.twitter.com/pavanthehacker"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--   <a href="" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a> -->
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
@@ -27,8 +27,7 @@ Hi there, I'm Pavan Kumar! ![](https://user-images.githubusercontent.com/1835055
 ======================================================================================================================================
 -->
 
-### 📜 Description..
------------------------------------------------
+### <h2>📜 Description.. </h2>
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Github](http://github.com/pth55)
 *   ✉️  You can contact me at [238w5a1201@vrsec.ac.in](mailto:238w5a1201@vrsec.ac.in)
@@ -60,10 +59,7 @@ Hi there, I'm Pavan Kumar! ![](https://user-images.githubusercontent.com/1835055
 
 <p>
   <h2>🛠️ My Favorite Tools..</h2>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
 <!--       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a> -->
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -164,6 +160,5 @@ Hi there, I'm Pavan Kumar! ![](https://user-images.githubusercontent.com/1835055
   </p>
 </p>
 
-### 📊 Language Stats..
-<br>
+<h2>📊 Language Stats..</h2>
 <a href="https://github.com/pth55" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pth55&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
