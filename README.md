@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="https://git.io/svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1&color=f75c7e&center=true&vCenter=true&repeat=false&random=false&width=435&height=60&lines=Pavan+Kumar+Bandaru" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1&color=f75c7e&center=true&vCenter=true&repeat=false&random=false&width=435&height=60&lines=Pavan+Kumar+Bandaru" alt="Typing SVG" />
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=5206&center=true&vCenter=true&pause=5000&color=f75c7e&random=true&width=750&height=41&lines=Student+-+Hacker+-+Programmer+-+Tech+Enthusiast.." alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=5206&center=true&vCenter=true&pause=5000&color=f75c7e&random=true&width=750&height=41&lines=Student+-+Hacker+-+Programmer+-+Tech+Enthusiast.." alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
