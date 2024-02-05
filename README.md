@@ -69,10 +69,8 @@ Here are some ideas to get you started:
 
 Hi there, I'm Pavan Kumar! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
-
-Student - Hacker - Programmer - Tech Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=5206&pause=5000&color=F7B629&random=true&width=750&height=41&lines=Student+-+Hacker+-+Programmer+-+Tech+Enthusiast..)](https://git.io/typing-svg)
 -----------------------------------------------
-
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Github](http://github.com/pth55)
 *   ✉️  You can contact me at [238w5a1201@vrsec.ac.in](mailto:238w5a1201@vrsec.ac.in)
@@ -110,6 +108,6 @@ Student - Hacker - Programmer - Tech Enthusiast
                   src="https://img.shields.io/twitter/follow/pavanthehacker?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
 
-### Badges
-
+<!-- ### Badges -->
+<br>
 <a href="https://github.com/pth55" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pth55&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
