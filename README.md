@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=5206&center=true&vCenter=true&pause=5000&color=f75c7e&random=true&width=750&height=41&lines=Student+-+Hacker+-+Programmer+-+Tech+Enthusiast.."/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=5206&center=true&vCenter=true&pause=5000&color=f75c7e&random=true&width=750&height=41&lines=Student+-+Programmer+Hacker"/>
 </p>
 
 <!-- Social icons section -->
