@@ -54,6 +54,7 @@
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-35BEF8.svg?logo=tailwindcss&logoColor=white"></a>
 <!--       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a> -->
 <!--       <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"> -->
 <!--       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a> -->
