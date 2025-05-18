@@ -18,7 +18,7 @@
 ### <h2>📜 Description.. </h2>
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [238w5a1201@vrsec.ac.in](mailto:238w5a1201@vrsec.ac.in)
-*   🚀  I'm currently working on **MERN Stack** and **Blochchain(Ethereum)/Web3.**
+*   🚀  I'm currently working on **MERN Stack** and **Blockchain(Ethereum)/Web3.**
 *   🤝  I'm open to collaborating on Web3, Cybersecurity and MERN stack Projects.
 
 <p>
