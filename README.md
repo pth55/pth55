@@ -3,23 +3,23 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=5206&center=true&vCenter=true&pause=5000&color=f75c7e&random=true&width=750&height=41&lines=Student+-+Programmer+-+Hacker"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=5206&center=true&vCenter=true&pause=5000&color=f75c7e&random=true&width=750&height=41&lines=MERN Stack+-+Web3+-+Cybersecurity"/>
 </p>
 
 <!-- Social icons section -->
-<p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.linkedin.com/in/pavan-kumar-bandaru-a857451bb/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<!-- <p align="center"> -->
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.linkedin.com/in/pavan-kumar-bandaru-a857451bb/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.twitter.com/pavanthehacker"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://github.com/pth55/pth55"><img width="35px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://github.com/pth55/pth55"><img width="35px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--   <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> -->
-</p>
+<!-- </p>-->
 
 ### <h2>📜 Description.. </h2>
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [238w5a1201@vrsec.ac.in](mailto:238w5a1201@vrsec.ac.in)
-*   🚀  I'm currently working on **MERN Stack** and **Cyber Sec.**
-*   🤝  I'm open to collaborating on Cybersecurity and MERN stack Projects.
+*   🚀  I'm currently working on **MERN Stack** and **Blochchain(Ethereum)/Web3.**
+*   🤝  I'm open to collaborating on Web3, Cybersecurity and MERN stack Projects.
 
 <p>
   <h2>🛠️ My Favorite Tools..</h2>
